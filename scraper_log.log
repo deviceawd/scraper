@@ -1,0 +1,241 @@
+2024-02-06 14:47:07,856 - INFO - Start scraping...
+2024-02-06 14:47:39,671 - INFO - Processed 20 cards
+2024-02-06 15:08:24,099 - INFO - Start scraping...
+2024-02-06 15:08:53,701 - INFO - Processed 20 cards
+2024-02-06 15:39:18,675 - INFO - Start scraping...
+2024-02-06 15:40:49,280 - INFO - Start scraping...
+2024-02-06 16:25:31,049 - INFO - Start scraping...
+2024-02-06 16:26:44,894 - INFO - Start scraping...
+2024-02-06 16:27:25,619 - INFO - Start scraping...
+2024-02-06 16:27:28,623 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:29,496 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:30,450 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:31,245 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:32,013 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:32,788 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:33,598 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:34,439 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:35,313 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:36,054 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:36,817 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:37,585 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:38,452 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:39,310 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:40,143 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:40,958 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:42,335 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:43,109 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:43,900 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:45,932 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:27:45,941 - INFO - Processed 0 cards
+2024-02-06 16:29:22,816 - INFO - Start scraping...
+2024-02-06 16:29:24,928 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:29:25,771 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:29:26,662 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:29:27,965 - ERROR - An exception occurred in extract_car_data: 'image_count'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 74, in extract_car_data
+    car_data['image_count'] += 1
+    ~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'image_count'
+2024-02-06 16:29:38,672 - INFO - Start scraping...
+2024-02-06 16:33:54,509 - INFO - Start scraping...
+2024-02-06 16:51:10,508 - INFO - Start scraping...
+2024-02-06 16:53:35,408 - INFO - Start scraping...
+2024-02-06 16:53:37,015 - ERROR - An exception occurred in extract_car_data: cannot access local variable 'image_count' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 72, in extract_car_data
+    car_data['image_count'] = image_count
+                              ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'image_count' where it is not associated with a value
+2024-02-06 16:53:37,870 - ERROR - An exception occurred in extract_car_data: cannot access local variable 'image_count' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 72, in extract_car_data
+    car_data['image_count'] = image_count
+                              ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'image_count' where it is not associated with a value
+2024-02-06 16:53:38,687 - ERROR - An exception occurred in extract_car_data: cannot access local variable 'image_count' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 72, in extract_car_data
+    car_data['image_count'] = image_count
+                              ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'image_count' where it is not associated with a value
+2024-02-06 16:53:39,556 - ERROR - An exception occurred in extract_car_data: cannot access local variable 'image_count' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 72, in extract_car_data
+    car_data['image_count'] = image_count
+                              ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'image_count' where it is not associated with a value
+2024-02-06 16:53:50,980 - INFO - Start scraping...
+2024-02-06 16:54:55,559 - INFO - Start scraping...
+2024-02-06 16:55:29,343 - INFO - Start scraping...
+2024-02-06 16:56:22,500 - INFO - Start scraping...
+2024-02-06 16:58:30,194 - INFO - Start scraping...
+2024-02-06 17:29:05,594 - INFO - Start scraping...
+2024-02-06 17:29:07,562 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:29:08,594 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:29:09,534 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:29:10,476 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:29:11,475 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:29:12,392 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:29:13,272 - ERROR - An exception occurred in extract_car_data: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "D:\COPY\python\AutoRia\scraper\scraper.py", line 70, in extract_car_data
+    image_count = image_container.find('mhide').text
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-02-06 17:31:52,953 - INFO - Start scraping...
+2024-02-06 18:43:52,288 - INFO - Start scraping...
+2024-02-06 18:44:02,431 - INFO - Start scraping...
+2024-02-06 18:45:21,635 - INFO - Processed 20 cards
+2024-02-06 18:56:47,877 - INFO - Start scraping...
+2024-02-06 18:57:54,824 - INFO - Processed 20 cards
+2024-02-06 19:01:21,060 - INFO - Start scraping...
+2024-02-06 19:02:30,392 - INFO - Processed 20 cards
+2024-02-06 19:05:44,724 - INFO - Start scraping...
+2024-02-06 19:06:48,348 - INFO - Processed 20 cards
